@@ -8,4 +8,5 @@ import io.ktor.server.routing.*
  */
 fun Application.makeRouting() {
     indexRoutes()
+    exampleRoutes()
 }
